@@ -1,3 +1,4 @@
+// email: shiraba01@gmail.com
 #include "Spy.hpp"
 #include "Game.hpp"
 #include <iostream>

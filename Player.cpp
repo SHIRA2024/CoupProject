@@ -1,3 +1,4 @@
+// email: shiraba01@gmail.com
 #include "Player.hpp"
 #include "Game.hpp"
 

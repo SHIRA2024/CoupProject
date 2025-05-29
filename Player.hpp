@@ -1,3 +1,4 @@
+// email: shiraba01@gmail.com
 #pragma once
 #include <string>
 #include <stdexcept>

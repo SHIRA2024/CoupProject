@@ -1,3 +1,4 @@
+#email: shiraba01@gmail.com
 # Makefile for the Coup project
 
 # Compiler and flags

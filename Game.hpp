@@ -1,3 +1,5 @@
+
+// email: shiraba01@gmail.com
 #pragma once
 #include <vector>
 #include <string>

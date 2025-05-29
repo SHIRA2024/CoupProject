@@ -1,3 +1,4 @@
+// email: shiraba01@gmail.com
 # Coup Game in C++ with SFML
 
 This project is a simplified graphical version of the **Coup** board game, implemented in C++ using the **SFML** graphics library.

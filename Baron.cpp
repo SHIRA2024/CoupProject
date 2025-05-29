@@ -1,3 +1,4 @@
+// email: shiraba01@gmail.com
 #include "Baron.hpp"
 #include <stdexcept>
 #include "Game.hpp"
